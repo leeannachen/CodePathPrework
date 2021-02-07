@@ -1,12 +1,11 @@
 ## CodePathPrework
 
 ### App Description
-`TODO://` Add app description
+Application PreWork
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://github.com/leeannachen/CodePathPrework/blob/main/ezgif.com-gif-maker.gif" width=200><br>
+<img src="https://github.com/leeannachen/CodePathPrework/blob/main/ezgif.com-gif-maker.gif" width=600><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
